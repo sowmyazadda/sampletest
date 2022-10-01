@@ -6,6 +6,7 @@ public class BMW extends car {
         System.out.println(" BMW--Theft safety");
 
     }
+    // iam adding this comment to learn git
 
     @Override // in the overriding method the child and parent class methods
               // should have the same argument
